@@ -7,3 +7,7 @@
 hw = "hello world"
 print(hw)
 ```
+
+- [ ] Github tutorials
+- [ ] PyCharm tutorials
+- [ ] Python book
