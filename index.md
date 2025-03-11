@@ -2,3 +2,8 @@
 ### This is a medium header.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+hw = "hello world"
+print(hw)
+```
